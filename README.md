@@ -7,3 +7,5 @@ The program generates a random direction and magnitude for each projectile. It t
 properties of parabolic motion.
 
 The simulation uses these properties to generate a visual image of the volcano eruption.
+
+To see an example of the simulation: https://drive.google.com/file/d/1aLloqXOdZ7b0ezSU1Kuy5DdzA_ekq5Sc/view?usp=sharing
